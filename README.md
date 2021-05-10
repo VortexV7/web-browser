@@ -12,4 +12,6 @@ CREATED WITH FOLLOWING MODULES:
 
 >PyQt5 : https://pypi.org/project/PyQt5/
 
+>PyQtWebEngine : https://pypi.org/project/PyQtWebEngine/
+
 © CYBERX TV PRODUCTION 2021
