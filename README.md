@@ -14,4 +14,6 @@ CREATED WITH FOLLOWING MODULES:
 
 >PyQtWebEngine : https://pypi.org/project/PyQtWebEngine/
 
+SPECIAL THANKS TO ProgrammingHero1 : https://www.programming-hero.com/
+
 © CYBERX TV PRODUCTION 2021
