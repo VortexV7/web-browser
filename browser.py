@@ -53,3 +53,6 @@ app = QApplication(sys.argv)
 QApplication.setApplicationName('WORM BROWSER')
 window = MainWindow()
 app.exec_()
+
+
+#  © CYBERX TV PRODUCTION 2021
