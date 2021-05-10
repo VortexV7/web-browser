@@ -3,7 +3,7 @@ A CHROME LIKE WEB BROWSER CREATED WITH PYTHON
 
 CREATED WITH FOLLOWING MODULES:
 
->sys : https://pypi.org/project/os-sys/
+>sys (pre-installed)
 
 >PyQt5 : https://pypi.org/project/PyQt5/
 
